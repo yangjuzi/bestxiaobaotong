@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>小报童精选专栏</title>
-    <meta name="description" content="小报童专栏|AI代写|AIGC大模型零成本赚钱|AI写真变现（爆款案例拆解）|AI拆书入门到变现|AI海外赚钱|小白的AI编程提效课|小红书变现案例|AI海外赚钱|AI提示词与职场提效|AI数字人从制作到变现|100款好用的AI工具">
+    <meta name="description" content="小报童专栏|小红书可复制案例库|自媒体百万粉丝指南">
     <link rel="shortcut icon" href="./static/favicon.png">
-    <link rel="canonical" href="https://bestxiaobaotong.com/AI.html">
+    <link rel="canonical" href="https://bestxiaobaotong.com/jingxuan.html">
     <script src="js/tailwind.3.4.1.js"></script>
     <style>
         /* Add custom styles here if necessary */
@@ -18,39 +18,15 @@
         <div class="flex flex-col items-center">
             <h1 class="text-3xl font-bold md:text-5xl text-center">小报童精选专栏</h1>
             <h2 class="mt-4 mb-8 text-sm text-gray-500 sm:text-base text-center md:mb-12 lg:mb-16">只收录订阅数超过1000的专栏，200个手工精选小报童专栏，打开你的赚钱思路</h2>
-            <!--增加3个超链接导航栏-->
+            <!--增加4个超链接导航栏-->
             <div class="relative self-center bg-gray-100 rounded-lg p-0.5 flex">
                 <a class="flex justify-center relative w-1/2 rounded-lg py-3 text-base font-medium whitespace-nowrap focus:outline-none focus:ring-2 focus:ring-cool-indigo-400 focus:z-10 sm:w-1/3 sm:px-8 bg-white text-orange-500" target="_self" href="jingxuan.html">精选</a>
                 <a class="flex justify-center relative w-1/2 rounded-lg py-3 text-base font-medium whitespace-nowrap focus:outline-none focus:ring-2 focus:ring-cool-indigo-300 focus:z-10 sm:w-1/3 sm:px-8 ml-0.5 text-gray-700 hover:text-gray-900" target="_self" href="index.html">搞钱</a>
-                <a class="flex justify-center relative w-1/2 rounded-lg py-3 text-base font-medium whitespace-nowrap focus:outline-none focus:ring-2 focus:ring-cool-indigo-300 focus:z-10 sm:w-1/3 sm:px-8 ml-0.5 text-gray-700 hover:text-gray-900" target="_self" href="AI.html">精选</a></div>
+                <a class="flex justify-center relative w-1/2 rounded-lg py-3 text-base font-medium whitespace-nowrap focus:outline-none focus:ring-2 focus:ring-cool-indigo-300 focus:z-10 sm:w-1/3 sm:px-8 ml-0.5 text-gray-700 hover:text-gray-900" target="_self" href="AI.html">AI</a>
+				<a class="flex justify-center relative w-1/2 rounded-lg py-3 text-base font-medium whitespace-nowrap focus:outline-none focus:ring-2 focus:ring-cool-indigo-300 focus:z-10 sm:w-1/3 sm:px-8 ml-0.5 text-gray-700 hover:text-gray-900" target="_self" href="dashen.html">大神</a></div>
             </br>
             <div class="grid gap-4 sm:grid-cols-2 md:grid-cols-3 lg:gap-6">
-                <a href="https://xiaobot.net/p/ziyouzhiye?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
-                    <div class="px-6 py-4">
-                        <div class="flex">
-                            <img src="./static/1jingziyou.png" alt="自由职业0-100w指南大全" class="mr-4 h-16 w-16 object-cover rounded-full">
-                            <div class="flex flex-col">
-                                <p class="text-xl font-semibold mb-4">自由职业0-100w指南大全</p>
-							</div>
-						</div>
-						<div class="mb-4 text-sm text-[#636262]">
-                             <p>作者赵立心：前大厂产品经理，裸辞自由职业2年。辞职半年打平原收入，毕业4年实现月入六位数。擅长帮助职场人实现职场转型、IP打造，完成自由职业起步0-100w。<br><br>
-
-							小册共10个专栏：自由职业基本问题、商业模式篇、辞职转型篇、心力篇、定位及常见方式篇、流量自媒体篇、产品篇、转化篇、时间管理篇、常见问答。<br><br>
-
-							原价2000元，现价14元买断，每千人涨价。买完看置顶帖，进专属知识星球，分享自由职业0-100w日常。
-
-							加微信「aijun20230504」，领自由职业资料一份。<br><br></p >
-                            
-                        </div>
-                        
-                        <div class="flex flex-row mt-4 space-x-2">
-                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">8753 订阅</span>
-                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">166 内容</span>
-                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
-                        </div>
-                    </div>
-                </a>
+                
                 <!-- News item 1 -->
                 <a href="https://xiaobot.net/p/XF888?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
                     <div class="px-6 py-4">
@@ -81,156 +57,10 @@
                         </div>
                     </div>
                 </a>
+				
+				
 
-				 <!-- News item 1 -->
-                <a href="https://xiaobot.net/p/pmthinking2022?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
-                    <div class="px-6 py-4">
-                        <div class="flex">
-                            <img src="./static/22think.jpeg" alt="产品沉思录 | 第六季（完结）" class="mr-4 h-16 w-16 object-cover rounded-full">
-                            <div class="flex flex-col">
-                                <p class="text-xl font-semibold mb-4">产品沉思录 | 第六季（完结）</p>
-							</div>
-						</div>
-						<div class="mb-4 text-sm text-[#636262]">
-                             <p>产品沉思录™ 是一个关于产品的知识库，也是一个 Newsletter （邮件组），始于 2017 年，累计发布近 200+ 期，涵盖几十个人物/产品/公司专题研究，累计近百万字内容。<br><br>
-								
-								
-
-								本年度内容已经连载完毕<br><br>
-
-								人们会被自己热爱的事物改变，而没有人因为给予而贫穷。<br><br>
-								</p >
-                            
-                        </div>
-                        
-                        <div class="flex flex-row mt-4 space-x-2">
-                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">4827 订阅</span>
-                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">52 内容</span>
-                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
-                        </div>
-                    </div>
-                </a>
-                <!-- News item 1 -->
-                <a href="https://xiaobot.net/p/pmthinking2023?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
-                    <div class="px-6 py-4">
-                        <div class="flex">
-                            <img src="./static/3chanpin.png" alt="产品沉思录 | 第七季（完结）" class="mr-4 h-16 w-16 object-cover rounded-full">
-                            <div class="flex flex-col">
-                                <p class="text-xl font-semibold mb-4">产品沉思录 | 第七季（完结）</p>
-							</div>
-						</div>
-						<div class="mb-4 text-sm text-[#636262]">
-                             <p>产品沉思录™ 是一个关于产品的知识库，也是一个 Newsletter （邮件组），始于 2017 年，累计发布近 200+ 期，涵盖几十个人物/产品/公司专题研究，累计近百万字内容。<br><br>
-
-								除了点击下方「介绍」外，你还可以浏览
-								- 免费精选集：pmthinking.com
-								- 本年度目录：xiaobot.net<br><br>
-
-								人们会被自己热爱的事物改变，而没有人因为给予而贫穷。<br><br>
-								</p >
-                            
-                        </div>
-                        
-                        <div class="flex flex-row mt-4 space-x-2">
-                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">5890 订阅</span>
-                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">51 内容</span>
-                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
-                        </div>
-                    </div>
-                </a>
-
-                <!-- News item 2 -->
-                <a href="https://xiaobot.net/p/pmdogs1?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
-                    <div class="px-6 py-4">
-                        <div class="flex">
-                            <img src="./static/3chunyin.jpeg" alt="纯银的 60 篇产品分析 · 第一季" class="mr-4 h-16 w-16 object-cover rounded-full">
-                            <div class="flex flex-col">
-                                <p class="text-xl font-semibold mb-4">纯银的 60 篇产品分析 · 第一季</p>
-							</div>
-						</div>
-						<div class="mb-4 text-sm text-[#636262]">
-                             <p>十五年产品经理,2008-2023<br>
-							 关于互联网社区，社交，行业趋势与PM职业<br>
-								· 第一季 39 元<br>
-                                · 第二季 39 元<br>
-								· 第三季 59 元<br>
-								· 第四季 59 元<br>
-								· 第五季 59 元<br>
-								· 第六季 59 元<br>
-								· 第七季 99 元（连载中）<br><br>
-								</p >
-                            
-                        </div>
-                        
-                        <div class="flex flex-row mt-4 space-x-2">
-                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">5341 订阅</span>
-                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">60 内容</span>
-                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
-                        </div>
-                    </div>
-                </a>
-
-				 <!-- News item 2 -->
-                <a href="https://xiaobot.net/p/pmdogs?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
-                    <div class="px-6 py-4">
-                        <div class="flex">
-                            <img src="./static/2chunyin.jpeg" alt="纯银的 60 篇产品分析 · 第二季" class="mr-4 h-16 w-16 object-cover rounded-full">
-                            <div class="flex flex-col">
-                                <p class="text-xl font-semibold mb-4">纯银的 60 篇产品分析 · 第二季</p>
-							</div>
-						</div>
-						<div class="mb-4 text-sm text-[#636262]">
-                             <p>十五年产品经理,2008-2023<br>
-							 关于互联网社区，社交，行业趋势与PM职业<br>
-								· 第一季 39 元<br>
-                                · 第二季 39 元<br>
-								· 第三季 59 元<br>
-								· 第四季 59 元<br>
-								· 第五季 59 元<br>
-								· 第六季 59 元<br>
-								· 第七季 99 元（连载中）<br><br>
-								</p >
-                            
-                        </div>
-                        
-                        <div class="flex flex-row mt-4 space-x-2">
-                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">6941 订阅</span>
-                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">60 内容</span>
-                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
-                        </div>
-                    </div>
-                </a>
-
-				 <!-- News item 2 -->
-                <a href="https://xiaobot.net/p/pmdogs3?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
-                    <div class="px-6 py-4">
-                        <div class="flex">
-                            <img src="./static/33chunyin.jpeg" alt="纯银的 60 篇产品分析 · 第三季" class="mr-4 h-16 w-16 object-cover rounded-full">
-                            <div class="flex flex-col">
-                                <p class="text-xl font-semibold mb-4">纯银的 60 篇产品分析 · 第三季</p>
-							</div>
-						</div>
-						<div class="mb-4 text-sm text-[#636262]">
-                             <p>十五年产品经理,2008-2023<br>
-							 关于互联网社区，社交，行业趋势与PM职业<br>
-								· 第一季 39 元<br>
-                                · 第二季 39 元<br>
-								· 第三季 59 元<br>
-								· 第四季 59 元<br>
-								· 第五季 59 元<br>
-								· 第六季 59 元<br>
-								· 第七季 99 元（连载中）<br><br>
-								</p >
-                            
-                        </div>
-                        
-                        <div class="flex flex-row mt-4 space-x-2">
-                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">6786 订阅</span>
-                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">60 内容</span>
-                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
-                        </div>
-                    </div>
-                </a>
+                
 
                 <!-- News item 3 -->
                 <a href="https://xiaobot.net/p/juexing01?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
@@ -480,34 +310,7 @@
                     </div>
                 </a>
 
-                <!-- News item 1 -->
-                <a href="https://xiaobot.net/p/devgrowth?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
-                    <div class="px-6 py-4">
-                        <div class="flex">
-                            <img src="./static/duli.png" alt="独立开发营销获客增长手册" class="mr-4 h-16 w-16 object-cover rounded-full">
-                            <div class="flex flex-col">
-                                <p class="text-xl font-semibold mb-4">独立开发营销获客增长手册</p>
-							</div>
-						</div>
-						<div class="mb-4 text-sm text-[#636262]">
-                             <p>期望帮助独立开发个体完成初期增长和商业验证<br><br>
-								掌握市场营销，流量获取，获客增长的入门方法
-								收获1000位狂热用户，掌握独立出海奥秘
-								15节小课，帮助大家突破只会开发不会运营的增长困境<br><br>
-								专栏持续更新实战案例
-								我的微信和推特：Yangyi_xxxx
-
-								<br><br></p >
-                            
-                        </div>
-                        
-                        <div class="flex flex-row mt-4 space-x-2">
-                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">1493 订阅</span>
-                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">38 内容</span>
-                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
-                        </div>
-                    </div>
-                </a>
+                
                
 
                 
@@ -660,6 +463,225 @@
                     </div>
                 </a>
 
+				 <!-- News item 3 -->
+                <a href="https://xiaobot.net/p/jghbd?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
+                    <div class="px-6 py-4">
+                        <div class="flex">
+                            <img src="./static/jiegou.jpeg" alt="如何提升结构化表达能力" class="mr-4 h-16 w-16 object-cover rounded-full">
+                            <div class="flex flex-col">
+                                <p class="text-xl font-semibold mb-4">如何提升结构化表达能力</p>
+							</div>
+						</div>
+						<div class="mb-4 text-sm text-[#636262]">
+                             <p>🤓作者曹将，《高效学习：曹将的公开课》《PPT炼成记》作者。
+								🚀 一共30个真实案例，解读常见的结构化表达。<br><br>
+								👔适合工作五年内的职场人购买。<br><br>
+								💰更新满30个后涨价。一次付费，永久阅读。<br><br></p >
+                            
+                        </div>
+                        
+                        <div class="flex flex-row mt-4 space-x-2">
+                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">2204 订阅</span>
+                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">44 内容</span>
+                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
+                        </div>
+                    </div>
+                </a>
+
+				<!-- News item 3 -->
+                <a href="https://xiaobot.net/p/xiezuo?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
+                    <div class="px-6 py-4">
+                        <div class="flex">
+                            <img src="./static/duanwen.jpeg" alt="短文写作100条·持续商业化" class="mr-4 h-16 w-16 object-cover rounded-full">
+                            <div class="flex flex-col">
+                                <p class="text-xl font-semibold mb-4">短文写作100条·持续商业化</p>
+							</div>
+						</div>
+						<div class="mb-4 text-sm text-[#636262]">
+                             <p>把写作变成一种习惯，像吃饭一样，一天不写难受。<br><br>
+
+								短文写作，持续写作，价值写作，持续价值写作，每个人都可以。
+
+								这个专栏，反复阅读，解决「短文价值写作」的核心问题。看完专栏，跟着干，出结果。<br><br>
+
+								限时最低价 47.89，跟着专栏的建议，沉淀写作基本功，短文商业化。每一篇都是经验，无浮夸的理论 。
+
+								满 1500 人，涨价至 55.66
+								订阅后，微信 957863300 找我，发支付截图，解锁「定向朋友圈和资料包」。<br><br></p >
+															
+                        </div>
+                        
+                        <div class="flex flex-row mt-4 space-x-2">
+                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">1280 订阅</span>
+                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">42 内容</span>
+                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
+                        </div>
+                    </div>
+                </a>
+
+				<!-- News item 3 -->
+                <a href="https://xiaobot.net/p/xuyansuitan?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
+                    <div class="px-6 py-4">
+                        <div class="flex">
+                            <img src="./static/wanzhuan.jpeg" alt="玩赚今日头条" class="mr-4 h-16 w-16 object-cover rounded-full">
+                            <div class="flex flex-col">
+                                <p class="text-xl font-semibold mb-4">玩赚今日头条</p>
+							</div>
+						</div>
+						<div class="mb-4 text-sm text-[#636262]">
+                             <p>作者徐言随谈: 今日头条微头条专栏销量全平台第一，微头条千万加爆文十几篇，百万加爆文300多篇，带货出单一万单。<br><br>
+
+							小册包含微头条爆款写作，微头条带货文写作，今日头条引流，爆款素材100天，四大专栏
+
+							原价499，现价10 元永久买断，满3000人，涨价10元。承诺更新 保底40篇!<br><br>
+
+							购买后到置顶帖加我，发支付截图，拉你进微头条写作交流群<br><br></p >
+																						
+                        </div>
+                        
+                        <div class="flex flex-row mt-4 space-x-2">
+                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">2745 订阅</span>
+                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">122 内容</span>
+                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
+                        </div>
+                    </div>
+                </a>
+
+				
+
+				<!-- News item 3 -->
+                <a href="https://xiaobot.net/p/youjun?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
+                    <div class="px-6 py-4">
+                        <div class="flex">
+                            <img src="./static/youjun.jpeg" alt="阿里P9右军：20年职业50个思考与洞察" class="mr-4 h-16 w-16 object-cover rounded-full">
+                            <div class="flex flex-col">
+                                <p class="text-xl font-semibold mb-4">阿里P9右军：20年职业50个思考与洞察</p>
+							</div>
+						</div>
+						<div class="mb-4 text-sm text-[#636262]">
+                             <p>右军，一位从业20年P9的职业思考：<br><br>
+
+								 经历了从20人到上千人技术团队 
+								｜ 技术管理形成自己的方法体系思考<br><br>
+
+								｜ AI破局合伙人I TGO成都董事会成员
+								｜ 全网20w粉 ｜ 写作3本图书、翻译1本
+
+								*程序员成长 ｜ 系统化思维 ｜ 行业洞察*<br><br>
+
+								原价599，目前定价29.9，到1500订阅调价。<br><br>
+								购买后加微信jianghu10002，送1年技术琐话陪跑群权益。<br><br></p >
+																														
+                        </div>
+                        
+                        <div class="flex flex-row mt-4 space-x-2">
+                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">1516 订阅</span>
+                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">34 内容</span>
+                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
+                        </div>
+                    </div>
+                </a>
+				
+
+				<!-- News item 3 -->
+                <a href="https://xiaobot.net/p/MSk1888999?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
+                    <div class="px-6 py-4">
+                        <div class="flex">
+                            <img src="./static/liuliang.jpeg" alt="自媒体人必备引流手册" class="mr-4 h-16 w-16 object-cover rounded-full">
+                            <div class="flex flex-col">
+                                <p class="text-xl font-semibold mb-4">自媒体人必备引流手册</p>
+							</div>
+						</div>
+						<div class="mb-4 text-sm text-[#636262]">
+                             <p>进入知识付费后半场，流量越来越难获取，你会发现：公域难引流、私域难留存 ！<br><br>
+
+								如果你是：互联网副业/创业者、个人IP、自媒体人，想要突破流量困局，实现业务增长，本手册非常适合你。<br><br>
+
+								本手册整合了100个互联网引流案例、方法和实用工具，可操作性强，涵盖：小红书，抖音，B站，视频号，微博，公众号，社群等多场景、多平台的引流方法。
+
+								除此以外，本手册配备【微信交流社群】，订阅者可进入社群，与更多高质自媒体人交流、实操，边学边做。<br><br>
+
+								限时福利28.8元（永久有效），每满100人，涨价10元。
+
+								订阅后，带上支付截图，添加微信：
+								小苗哥：MSK128188 （加领引流工具箱）
+								大西：daxicc725 （可进群里再点添加）
+
+								添加微信备注：引流专栏，找我们解锁【定向朋友圈】领引流工具包。<br><br></p >
+																																						
+                        </div>
+                        
+                        <div class="flex flex-row mt-4 space-x-2">
+                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">1204 订阅</span>
+                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">47 内容</span>
+                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
+                        </div>
+                    </div>
+                </a>
+
+				<!-- News item 3 -->
+                <a href="https://xiaobot.net/p/fscz01?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
+                    <div class="px-6 py-4">
+                        <div class="flex">
+                            <img src="./static/renju.png" alt="微信社交避坑指南" class="mr-4 h-16 w-16 object-cover rounded-full">
+                            <div class="flex flex-col">
+                                <p class="text-xl font-semibold mb-4">微信社交避坑指南</p>
+							</div>
+						</div>
+						<div class="mb-4 text-sm text-[#636262]">
+                             <p>无论是玩个人IP 还是搞副业，不了解社交礼仪，不懂这些踩坑点，大概率会走很多我们趟过的弯路，不经意就会浪费机会、得罪大佬、错失贵人 。<br><br>
+
+								由 飞巴和深圳大冲共同编写，别人教你赚钱，我们教你避坑。学习社交礼仪，快速成长、有质量地实现破圈。<br><br>
+
+								原价 168 ，售价16.66元，永久有效，满 2000 订阅涨价至 18.88元。<br><br>
+
+								订阅后微信 562975196 找我，截图支付记录，送你三份见面礼和专属朋友圈。<br><br></p >
+																																						
+                        </div>
+                        
+                        <div class="flex flex-row mt-4 space-x-2">
+                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">1492 订阅</span>
+                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">76 内容</span>
+                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
+                        </div>
+                    </div>
+                </a>
+
+				<!-- News item 3 -->
+                <a href="https://xiaobot.net/p/xhsal?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
+                    <div class="px-6 py-4">
+                        <div class="flex">
+                            <img src="./static/hongshuanli.png" alt="小红书带货案例库" class="mr-4 h-16 w-16 object-cover rounded-full">
+                            <div class="flex flex-col">
+                                <p class="text-xl font-semibold mb-4">小红书带货案例库</p>
+							</div>
+						</div>
+						<div class="mb-4 text-sm text-[#636262]">
+                             <p>小红书带货玩家必备手册，站在巨人的肩膀上卖货赚钱。<br><br>
+
+								本小册手动精选 200 个小红书电商带货可复制案例，涉及商品累计GMV超5亿，可以帮你快速获得小红书带货灵感。
+
+								限时 59 元买断（永久有效）
+								每满 100 人订阅，涨价10元，早买早赚<br><br>
+
+								订阅后，截图支付记录，加微信 9908134 有专属惊喜
+
+								—
+
+								更多权益和规则请看置顶帖，每天更新10条案例。
+
+								<br><br></p >
+																																						
+                        </div>
+                        
+                        <div class="flex flex-row mt-4 space-x-2">
+                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">1377 订阅</span>
+                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">202 内容</span>
+                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
+                        </div>
+                    </div>
+                </a>
+
 				<!-- News item 1 -->
                 <a href="https://xiaobot.net/p/tb108?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
                     <div class="px-6 py-4">
@@ -696,10 +718,12 @@
                         </div>
                     </div>
                 </a>
-
-             
+				
+				
+				
                 
 
+				
                
 
 
@@ -708,7 +732,7 @@
 				
             </div>
             <!-- Button -->
-            <a href="https://xiaobot.net/p/shengcaiyoushu?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md bg-black px-6 py-3 text-center font-semibold text-white block mt-8">View More</a>
+            <a href="https://xiaobot.net/p/shengcaiyoushu?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md bg-black px-6 py-3 text-center font-semibold text-white block mt-8">去看看订阅人数超2万的专栏</a>
         </div>
     </section>
     <footer class="bg-gray-100 text-white py-8 px-4 md:px-0">

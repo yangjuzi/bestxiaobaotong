@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>小报童精选专栏</title>
+    <meta name="description" content="小报童专栏|AI代写|AIGC大模型零成本赚钱|AI写真变现（爆款案例拆解）|AI拆书入门到变现|AI海外赚钱|小白的AI编程提效课|小红书变现案例|AI海外赚钱|AI提示词与职场提效|AI数字人从制作到变现|100款好用的AI工具">
+    <link rel="shortcut icon" href="./static/favicon.png">
+    <link rel="canonical" href="https://bestxiaobaotong.com/dashen.html">
+    <script src="js/tailwind.3.4.1.js"></script>
+    <style>
+        /* Add custom styles here if necessary */
+    </style>
+</head>
+<body>
+	
+    <section class="mx-auto w-full max-w-7xl px-5 py-16 md:px-10 md:py-20">
+        <div class="flex flex-col items-center">
+            <h1 class="text-3xl font-bold md:text-5xl text-center">小报童精选专栏</h1>
+            <h2 class="mt-4 mb-8 text-sm text-gray-500 sm:text-base text-center md:mb-12 lg:mb-16">只收录订阅数超过1000的专栏，200个手工精选小报童专栏，打开你的赚钱思路</h2>
+            <!--增加4个超链接导航栏-->
+            <div class="relative self-center bg-gray-100 rounded-lg p-0.5 flex">
+                <a class="flex justify-center relative w-1/2 rounded-lg py-3 text-base font-medium whitespace-nowrap focus:outline-none focus:ring-2 focus:ring-cool-indigo-400 focus:z-10 sm:w-1/3 sm:px-8 ml-0.5 text-gray-700 hover:text-gray-900" target="_self" href="jingxuan.html">精选</a>
+                <a class="flex justify-center relative w-1/2 rounded-lg py-3 text-base font-medium whitespace-nowrap focus:outline-none focus:ring-2 focus:ring-cool-indigo-300 focus:z-10 sm:w-1/3 sm:px-8 ml-0.5 text-gray-700 hover:text-gray-900" target="_self" href="index.html">搞钱</a>
+                <a class="flex justify-center relative w-1/2 rounded-lg py-3 text-base font-medium whitespace-nowrap focus:outline-none focus:ring-2 focus:ring-cool-indigo-300 focus:z-10 sm:w-1/3 sm:px-8 ml-0.5 text-gray-700 hover:text-gray-900" target="_self" href="AI.html">精选</a>
+				<a class="flex justify-center relative w-1/2 rounded-lg py-3 text-base font-medium whitespace-nowrap focus:outline-none focus:ring-2 focus:ring-cool-indigo-300 focus:z-10 sm:w-1/3 sm:px-8 ml-0.5 bg-white text-orange-500" target="_self" href="dashen.html">大神</a></div>
+            </br>
+            <div class="grid gap-4 sm:grid-cols-2 md:grid-cols-3 lg:gap-6">
+                
+               
+				
+
+               
+               
+
+                
+
+                
+
+				
+				 <!-- News item 1 -->
+                <a href="https://xiaobot.net/p/pmthinking2020?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
+                    <div class="px-6 py-4">
+                        <div class="flex">
+                            <img src="./static/pm2020.jpeg" alt="产品沉思录 | 第四季（完结）" class="mr-4 h-16 w-16 object-cover rounded-full">
+                            <div class="flex flex-col">
+                                <p class="text-xl font-semibold mb-4">产品沉思录 | 第四季（完结）</p>
+							</div>
+						</div>
+						<div class="mb-4 text-sm text-[#636262]">
+                             <p>产品沉思录™ 是一个关于产品的知识库，也是一个 Newsletter （邮件组），始于 2017 年，累计发布近 200+ 期，涵盖几十个人物/产品/公司专题研究，累计近百万字内容。<br><br>
+								
+								
+
+								本年度内容已经连载完毕<br><br>
+
+								人们会被自己热爱的事物改变，而没有人因为给予而贫穷。<br><br>
+								</p >
+                            
+                        </div>
+                        
+                        <div class="flex flex-row mt-4 space-x-2">
+                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">4241 订阅</span>
+                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">42 内容</span>
+                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
+                        </div>
+                    </div>
+                </a>
+
+				 <!-- News item 1 -->
+
+                <a href="https://xiaobot.net/p/pmthinking2021?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
+                    <div class="px-6 py-4">
+                        <div class="flex">
+                            <img src="./static/pm2021.jpeg" alt="产品沉思录 | 第五季（完结）" class="mr-4 h-16 w-16 object-cover rounded-full">
+                            <div class="flex flex-col">
+                                <p class="text-xl font-semibold mb-4">产品沉思录 | 第五季（完结）</p>
+							</div>
+						</div>
+						<div class="mb-4 text-sm text-[#636262]">
+                             <p>产品沉思录™ 是一个关于产品的知识库，也是一个 Newsletter （邮件组），始于 2017 年，累计发布近 200+ 期，涵盖几十个人物/产品/公司专题研究，累计近百万字内容。<br><br>
+								
+								
+
+								本年度内容已经连载完毕<br><br>
+
+								人们会被自己热爱的事物改变，而没有人因为给予而贫穷。<br><br>
+								</p >
+                            
+                        </div>
+                        
+                        <div class="flex flex-row mt-4 space-x-2">
+                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">4221 订阅</span>
+                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">51 内容</span>
+                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
+                        </div>
+                    </div>
+                </a>
+				 <!-- News item 1 -->
+                <a href="https://xiaobot.net/p/pmthinking2022?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
+                    <div class="px-6 py-4">
+                        <div class="flex">
+                            <img src="./static/22think.jpeg" alt="产品沉思录 | 第六季（完结）" class="mr-4 h-16 w-16 object-cover rounded-full">
+                            <div class="flex flex-col">
+                                <p class="text-xl font-semibold mb-4">产品沉思录 | 第六季（完结）</p>
+							</div>
+						</div>
+						<div class="mb-4 text-sm text-[#636262]">
+                             <p>产品沉思录™ 是一个关于产品的知识库，也是一个 Newsletter （邮件组），始于 2017 年，累计发布近 200+ 期，涵盖几十个人物/产品/公司专题研究，累计近百万字内容。<br><br>
+								
+								
+
+								本年度内容已经连载完毕<br><br>
+
+								人们会被自己热爱的事物改变，而没有人因为给予而贫穷。<br><br>
+								</p >
+                            
+                        </div>
+                        
+                        <div class="flex flex-row mt-4 space-x-2">
+                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">4827 订阅</span>
+                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">52 内容</span>
+                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
+                        </div>
+                    </div>
+                </a>
+                <!-- News item 1 -->
+                <a href="https://xiaobot.net/p/pmthinking2023?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
+                    <div class="px-6 py-4">
+                        <div class="flex">
+                            <img src="./static/3chanpin.png" alt="产品沉思录 | 第七季（完结）" class="mr-4 h-16 w-16 object-cover rounded-full">
+                            <div class="flex flex-col">
+                                <p class="text-xl font-semibold mb-4">产品沉思录 | 第七季（完结）</p>
+							</div>
+						</div>
+						<div class="mb-4 text-sm text-[#636262]">
+                             <p>产品沉思录™ 是一个关于产品的知识库，也是一个 Newsletter （邮件组），始于 2017 年，累计发布近 200+ 期，涵盖几十个人物/产品/公司专题研究，累计近百万字内容。<br><br>
+
+								除了点击下方「介绍」外，你还可以浏览
+								- 免费精选集：pmthinking.com
+								- 本年度目录：xiaobot.net<br><br>
+
+								人们会被自己热爱的事物改变，而没有人因为给予而贫穷。<br><br>
+								</p >
+                            
+                        </div>
+                        
+                        <div class="flex flex-row mt-4 space-x-2">
+                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">5890 订阅</span>
+                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">51 内容</span>
+                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
+                        </div>
+                    </div>
+                </a>
+             <!-- News item 2 -->
+                <a href="https://xiaobot.net/p/pmdogs1?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
+                    <div class="px-6 py-4">
+                        <div class="flex">
+                            <img src="./static/3chunyin.jpeg" alt="纯银的 60 篇产品分析 · 第一季" class="mr-4 h-16 w-16 object-cover rounded-full">
+                            <div class="flex flex-col">
+                                <p class="text-xl font-semibold mb-4">纯银的 60 篇产品分析 · 第一季</p>
+							</div>
+						</div>
+						<div class="mb-4 text-sm text-[#636262]">
+                             <p>十五年产品经理,2008-2023<br>
+							 关于互联网社区，社交，行业趋势与PM职业<br>
+								· 第一季 39 元<br>
+                                · 第二季 39 元<br>
+								· 第三季 59 元<br>
+								· 第四季 59 元<br>
+								· 第五季 59 元<br>
+								· 第六季 59 元<br>
+								· 第七季 99 元（连载中）<br><br>
+								</p >
+                            
+                        </div>
+                        
+                        <div class="flex flex-row mt-4 space-x-2">
+                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">5341 订阅</span>
+                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">60 内容</span>
+                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
+                        </div>
+                    </div>
+                </a>
+
+				 <!-- News item 2 -->
+                <a href="https://xiaobot.net/p/pmdogs?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
+                    <div class="px-6 py-4">
+                        <div class="flex">
+                            <img src="./static/2chunyin.jpeg" alt="纯银的 60 篇产品分析 · 第二季" class="mr-4 h-16 w-16 object-cover rounded-full">
+                            <div class="flex flex-col">
+                                <p class="text-xl font-semibold mb-4">纯银的 60 篇产品分析 · 第二季</p>
+							</div>
+						</div>
+						<div class="mb-4 text-sm text-[#636262]">
+                             <p>十五年产品经理,2008-2023<br>
+							 关于互联网社区，社交，行业趋势与PM职业<br>
+								· 第一季 39 元<br>
+                                · 第二季 39 元<br>
+								· 第三季 59 元<br>
+								· 第四季 59 元<br>
+								· 第五季 59 元<br>
+								· 第六季 59 元<br>
+								· 第七季 99 元（连载中）<br><br>
+								</p >
+                            
+                        </div>
+                        
+                        <div class="flex flex-row mt-4 space-x-2">
+                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">6941 订阅</span>
+                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">60 内容</span>
+                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
+                        </div>
+                    </div>
+                </a>
+
+				 <!-- News item 2 -->
+                <a href="https://xiaobot.net/p/pmdogs3?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
+                    <div class="px-6 py-4">
+                        <div class="flex">
+                            <img src="./static/33chunyin.jpeg" alt="纯银的 60 篇产品分析 · 第三季" class="mr-4 h-16 w-16 object-cover rounded-full">
+                            <div class="flex flex-col">
+                                <p class="text-xl font-semibold mb-4">纯银的 60 篇产品分析 · 第三季</p>
+							</div>
+						</div>
+						<div class="mb-4 text-sm text-[#636262]">
+                             <p>十五年产品经理,2008-2023<br>
+							 关于互联网社区，社交，行业趋势与PM职业<br>
+								· 第一季 39 元<br>
+                                · 第二季 39 元<br>
+								· 第三季 59 元<br>
+								· 第四季 59 元<br>
+								· 第五季 59 元<br>
+								· 第六季 59 元<br>
+								· 第七季 99 元（连载中）<br><br>
+								</p >
+                            
+                        </div>
+                        
+                        <div class="flex flex-row mt-4 space-x-2">
+                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">6786 订阅</span>
+                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">60 内容</span>
+                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
+                        </div>
+                    </div>
+                </a>
+
+				<!-- News item 2 -->
+                <a href="https://xiaobot.net/p/pmdogs4?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
+                    <div class="px-6 py-4">
+                        <div class="flex">
+                            <img src="./static/chunyin4.jpeg" alt="纯银的 60 篇产品分析 · 第四季" class="mr-4 h-16 w-16 object-cover rounded-full">
+                            <div class="flex flex-col">
+                                <p class="text-xl font-semibold mb-4">纯银的 60 篇产品分析 · 第四季</p>
+							</div>
+						</div>
+						<div class="mb-4 text-sm text-[#636262]">
+                             <p>十五年产品经理,2008-2023<br>
+							 关于互联网社区，社交，行业趋势与PM职业<br>
+								· 第一季 39 元<br>
+                                · 第二季 39 元<br>
+								· 第三季 59 元<br>
+								· 第四季 59 元<br>
+								· 第五季 59 元<br>
+								· 第六季 59 元<br>
+								· 第七季 99 元（连载中）<br><br>
+								</p >
+                            
+                        </div>
+                        
+                        <div class="flex flex-row mt-4 space-x-2">
+                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">4011 订阅</span>
+                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">60 内容</span>
+                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
+                        </div>
+                    </div>
+                </a>
+
+				<!-- News item 2 -->
+                <a href="https://xiaobot.net/p/pmdogs5?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
+                    <div class="px-6 py-4">
+                        <div class="flex">
+                            <img src="./static/chunyin5.jpeg" alt="纯银的 60 篇产品分析 · 第五季" class="mr-4 h-16 w-16 object-cover rounded-full">
+                            <div class="flex flex-col">
+                                <p class="text-xl font-semibold mb-4">纯银的 60 篇产品分析 · 第五季</p>
+							</div>
+						</div>
+						<div class="mb-4 text-sm text-[#636262]">
+                             <p>十五年产品经理,2008-2023<br>
+							 关于互联网社区，社交，行业趋势与PM职业<br>
+								· 第一季 39 元<br>
+                                · 第二季 39 元<br>
+								· 第三季 59 元<br>
+								· 第四季 59 元<br>
+								· 第五季 59 元<br>
+								· 第六季 59 元<br>
+								· 第七季 99 元（连载中）<br><br>
+								</p >
+                            
+                        </div>
+                        
+                        <div class="flex flex-row mt-4 space-x-2">
+                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">3724 订阅</span>
+                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">59 内容</span>
+                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
+                        </div>
+                    </div>
+                </a>
+
+				<!-- News item 2 -->
+                <a href="https://xiaobot.net/p/pmdogs6?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
+                    <div class="px-6 py-4">
+                        <div class="flex">
+                            <img src="./static/chunyin6.jpeg" alt="纯银的 60 篇产品分析 · 第六季" class="mr-4 h-16 w-16 object-cover rounded-full">
+                            <div class="flex flex-col">
+                                <p class="text-xl font-semibold mb-4">纯银的 60 篇产品分析 · 第六季</p>
+							</div>
+						</div>
+						<div class="mb-4 text-sm text-[#636262]">
+                             <p>十五年产品经理,2008-2023<br>
+							 关于互联网社区，社交，行业趋势与PM职业<br>
+								· 第一季 39 元<br>
+                                · 第二季 39 元<br>
+								· 第三季 59 元<br>
+								· 第四季 59 元<br>
+								· 第五季 59 元<br>
+								· 第六季 59 元<br>
+								· 第七季 99 元（连载中）<br><br>
+								</p >
+                            
+                        </div>
+                        
+                        <div class="flex flex-row mt-4 space-x-2">
+                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">2224 订阅</span>
+                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">60 内容</span>
+                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
+                        </div>
+                    </div>
+                </a>
+
+				<!-- News item 2 -->
+                <a href="https://xiaobot.net/p/pmdogs7?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
+                    <div class="px-6 py-4">
+                        <div class="flex">
+                            <img src="./static/chunyin7.jpeg" alt="纯银的 60 篇产品分析 · 第七季" class="mr-4 h-16 w-16 object-cover rounded-full">
+                            <div class="flex flex-col">
+                                <p class="text-xl font-semibold mb-4">纯银的 60 篇产品分析 · 第七季连载</p>
+							</div>
+						</div>
+						<div class="mb-4 text-sm text-[#636262]">
+                             <p>十五年产品经理,2008-2023<br>
+							 关于互联网社区，社交，行业趋势与PM职业<br>
+								· 第一季 39 元<br>
+                                · 第二季 39 元<br>
+								· 第三季 59 元<br>
+								· 第四季 59 元<br>
+								· 第五季 59 元<br>
+								· 第六季 59 元<br>
+								· 第七季 99 元（连载中）<br><br>
+								</p >
+                            
+                        </div>
+                        
+                        <div class="flex flex-row mt-4 space-x-2">
+                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">1480 订阅</span>
+                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">54 内容</span>
+                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
+                        </div>
+                    </div>
+                </a>
+
+				<!-- News item 2 -->
+                <a href="https://xiaobot.net/p/whereisyi?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
+                    <div class="px-6 py-4">
+                        <div class="flex">
+                            <img src="./static/liyi.jpeg" alt="李奕在哪儿｜第一季【已完结】" class="mr-4 h-16 w-16 object-cover rounded-full">
+                            <div class="flex flex-col">
+                                <p class="text-xl font-semibold mb-4">李奕在哪儿｜第一季【已完结】</p>
+							</div>
+						</div>
+						<div class="mb-4 text-sm text-[#636262]">
+                             <p>👩🏻‍🌾 在肯尼亚种田！改变非洲农业🌱<br><br>
+
+								🇰🇪【走进非洲】在肯尼亚创业的奇葩故事和心路历程
+								💛【人生课题】聊聊情绪和身体管理，亲密关系和父母沟通
+								🔑【职场进阶】百分百的实战干货，职场新老人都能用
+								🧠【认知重塑】分享我认为最重要的，可能改变人生的底层信念<br><br>
+
+								🍅 如果把公众号文章比喻为农场上丰收的番茄，小报童就是让你看到我种番茄的整个过程：育苗，栽种，除草，施肥，收获。虽然每个人都有自己独一无二的农场要去耕耘，但去和隔壁农民取取经，总能带来一些inspiration。<br><br>
+
+								第一季100篇已完结，第二季连载中：<br><br>
+																</p >
+                            
+                        </div>
+                        
+                        <div class="flex flex-row mt-4 space-x-2">
+                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">1064 订阅</span>
+                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">103 内容</span>
+                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
+                        </div>
+                    </div>
+                </a>
+
+				<!-- News item 2 -->
+                <a href="https://xiaobot.net/p/whereisyi2?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
+                    <div class="px-6 py-4">
+                        <div class="flex">
+                            <img src="./static/liyi2.jpeg" alt="李奕在哪儿｜第二季" class="mr-4 h-16 w-16 object-cover rounded-full">
+                            <div class="flex flex-col">
+                                <p class="text-xl font-semibold mb-4">李奕在哪儿｜第二季</p>
+							</div>
+						</div>
+						<div class="mb-4 text-sm text-[#636262]">
+                             <p>👩🏻‍🌾
+								2016-2021麦肯锡咨询师，洛杉矶、北京、内罗毕办公室
+								2021至今辞职创业，肯尼亚农业科技公司FarmWorks<br><br>
+								🍀
+								第二季了，让我们一起玩人生这场游戏！
+								100篇非洲创业故事，职场实战干货，人生底层信念和关键认知。<br><br>
+								✨
+								已完结专栏三册：
+								【第一季100篇】：xiaobot.net
+								【心态大师】：xiaobot.net
+								【你的第一本人际关系指南】<br><br>
+																</p >
+                            
+                        </div>
+                        
+                        <div class="flex flex-row mt-4 space-x-2">
+                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">1482 订阅</span>
+                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">94 内容</span>
+                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
+                        </div>
+                    </div>
+                </a>
+
+				<!-- News item 2 -->
+                <a href="https://xiaobot.net/p/Relationship?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
+                    <div class="px-6 py-4">
+                        <div class="flex">
+                            <img src="./static/gpa.jpeg" alt="你的第一本人际关系指南" class="mr-4 h-16 w-16 object-cover rounded-full">
+                            <div class="flex flex-col">
+                                <p class="text-xl font-semibold mb-4">你的第一本人际关系指南</p>
+							</div>
+						</div>
+						<div class="mb-4 text-sm text-[#636262]">
+                             <p>在这本书里，
+
+								- 你会看到许多哈佛大学生的案例，在人人都是学霸的环境下，他们如何通过构建人际关系网络，争取各种不可能的机会，让自己脱颖而出；如何平衡好学业压力，同侪竞争，同时又拥有真诚的友谊和support network。<br><br>
+								- 你会看到各种有趣的研究，对于“幸福”和“成功”有新的定义。
+								- 你会收获一些关于人际关系的“硬技能”和干货，运用到工作学习中，收获更有价值的人脉。<br><br>
+
+								我真心相信，这本小册可以成为你的「人际关系第一课」，给你打开一个全新的，“少有人走”的世界。
+
+								期待和你一起走上这个旅程！<br><br>
+																</p >
+                            
+                        </div>
+                        
+                        <div class="flex flex-row mt-4 space-x-2">
+                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">1315 订阅</span>
+                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">46 内容</span>
+                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
+                        </div>
+                    </div>
+                </a>
+
+				<!-- News item 2 -->
+                <a href="https://xiaobot.net/p/mindset?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md border border-solid border-gray-300 px-4 py-8 md:p-0 flex flex-col gap-4">
+                    <div class="px-6 py-4">
+                        <div class="flex">
+                            <img src="./static/xintai.jpeg" alt="心态大师 1.0【完结啦，来读我】" class="mr-4 h-16 w-16 object-cover rounded-full">
+                            <div class="flex flex-col">
+                                <p class="text-xl font-semibold mb-4">心态大师 1.0【完结啦，来读我】</p>
+							</div>
+						</div>
+						<div class="mb-4 text-sm text-[#636262]">
+                             <p>想到「心态」作为新年小册的主题，是因为我向来觉得心态好是自己的优点，然而在起伏不断的2022年中，我也数度经历过“心态崩了”的时刻。<br><br>
+
+								哪怕是我自己写下的故事和道理，我自己也会在一些焦虑的当下忘记，自己也做不到。
+
+								我也需要不断回看，不断提醒自己已经走过的路，才能更稳定，松弛，有自信地向前。<br><br>
+
+								这本小册包含五个小主题：
+								* 和自己对话
+								* 面对不确定性
+								* 职场升级心法
+								* 低谷期的锦囊
+								* 健康的身心，好心态的本钱
+
+								我会在整个1月份更新，每日一篇，和大家一起开启2023。<br><br>
+																</p >
+                            
+                        </div>
+                        
+                        <div class="flex flex-row mt-4 space-x-2">
+                            <span class="inline-flex items-center rounded-md bg-yellow-50 px-2 py-1 text-xs font-medium text-yellow-700 ring-1 ring-inset ring-yellow-600/20">1315 订阅</span>
+                            <span class="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-xs font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10">46 内容</span>
+                            <button class="text-white bg-orange-500 px-4 py-1 rounded-lg">详情</button>
+                        </div>
+                    </div>
+                </a>
+                
+
+               
+
+
+              
+
+				
+            </div>
+            <!-- Button -->
+            <a href="https://xiaobot.net/p/shengcaiyoushu?refer=77566136-5295-4470-a5b7-f2a6eb104b57" class="rounded-md bg-black px-6 py-3 text-center font-semibold text-white block mt-8">去看看订阅人数超2万的专栏</a>
+        </div>
+    </section>
+    <footer class="bg-gray-100 text-white py-8 px-4 md:px-0">
+        <p class="text-gray-500 text-center">© <!-- -->2024<!-- -->.<!-- --> <a href="https://bestxiaobaotong.com/">bestxiaobaotong.com</a>. All rights reserved.</p>
+    </footer>
+</body>
+</html>
